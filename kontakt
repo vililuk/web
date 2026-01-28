@@ -1,4 +1,5 @@
-
-    <a href="index.html">Naslovna</a><br>
+<body>
+        <a href="index.html">Naslovna</a><br>
 		<a href="kontakt.html">O meni</a><br>
 		<a href="kontakt.html">Kontakt</a><br>
+</body>
